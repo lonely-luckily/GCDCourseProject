@@ -1,5 +1,5 @@
 #Codebook
-## This codebook describe the variables in result dataset
+This codebook describe the variables in result dataset
 
 ##Identificators:
 `subject` - The ID of the test subject
