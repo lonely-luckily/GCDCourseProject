@@ -8,8 +8,7 @@ Before using this script you should download the archive of the data and unpack 
 
 The code was designed to instantly interact with the user, so for passing every step of project (tasks), user should confirm the further execution. That's why every part of code is covered in function. All the actions that script perform has shown directly in the script (in comments).
 
-For correct using of this script you should have 'dplyr' package
-installed.
+For correct using of this script you should have 'dplyr' package installed. Some other packages could cause problems during script execution. To prevent that is better to restart R before loading script (to clean workspace and loaded librarys).
 
 To begin, load script and call "run_analysis" function without any arguments
 
