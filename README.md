@@ -13,4 +13,4 @@ installed.
 
 To begin, load script and call "run_analysis" function without any arguments
 
-The end result is shown in the file `UCI_HAR_Averages.txt.txt`.
+The end result is shown in the file `UCI_HAR_Averages.txt`.
